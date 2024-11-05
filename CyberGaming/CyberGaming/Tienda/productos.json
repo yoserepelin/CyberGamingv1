@@ -1,0 +1,250 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "PC Gamer core i5 10400",
+            "price":1999,
+            "image": "https://http2.mlstatic.com/D_NQ_NP_845996-MCO70434319224_072023-O.webp",
+            "category": "pc",
+            "descripcion": "Torre Cpu Gamer con procesador Core I5 10400, GPU de 2gb DDR3 Disco solido 1tb, 16gb Ram DDR4, Monitor Led 22 Pc",
+            "descripcion2": "Incluye tarjeta grafica Nvidia Geforce GT 710 2GB DDR3,  PCI-Express x16, vga, dvi, hdmi, Teclado y maus RGB"
+        },
+        {
+            "id": 2,
+            "title": "PlayStation 5 + RE4",
+            "price": 750,
+            "image": "https://gamecentersac.com/wp-content/uploads/2023/05/GC02953-600x600.jpg",
+            "category": "consolas",
+            "descripcion": "Consola PlayStation 5 + 1 Mando Original",
+            "descripcion2": "Incluye el videojuego Resident Evil 4 Remake"
+        },
+        {
+            "id": 3,
+            "title": "ASUS ROG PHONE 6",
+            "price": 286,
+            "image": "https://totalgaming.com.ar/wp-content/uploads/assasas.png",
+            "category": "celulares",
+            "descripcion": "ASUS ROG PHONE 6 con Pantalla:6.78 AMOLED 165Hz, RAM: 12GB/16GB, Batería: 6000mAh, Sistema operativo: Android 12 ",
+            "descripcion2": "¡La leyenda ha evolucionado! El Asus ROG Phone 6 es la última encarnación del teléfono para juegos líder en el mundo. Aprovecha el poder de juego bruto de la última plataforma móvil Qualcomm® Snapdragon® 8+ Gen 1, con un nuevo sistema térmico GameCool 6 líder en su clase que le permite romper todas las barreras y romper todos los límites, y una pantalla de 165 Hz para una experiencia visual revolucionaria ."               
+        },
+        {
+            "id": 4,
+            "title": "GEFORCE RTX 3080 TI 12GB",
+            "price": 700,
+            "image": "https://www.gamerscolombia.com/img/products/TARJETA-GRFICA-EVGA-GEFORCE-RTX-3080-FTW3/EVGA-GEFORCE-RTX-3080-FTW316536521151.png",
+            "category": "graficas",
+            "descripcion": "Multiprocesadores NVIDIA Ampere Streaming: Los componentes básicos de las GPU más rápidas y eficientes del mundo, el nuevo Ampere SM ofrece el doble de rendimiento de FP32 y una eficiencia energética mejorada.",
+            "descripcion2": ""
+        },
+        {
+            "id": 5,
+            "title": "Xiaomi Mi Pad 5 ",
+            "price": 100,
+            "image": "https://ph-test-11.slatic.net/p/31f67b0cd0d651206eacf0af3336afb7.png",
+            "category": "tablets",
+            "descripcion": "Xiaomi Mi Pad 5 con procesador Qualcomm Snapdragon 860, Pantalla 2K+ Superfluida con 120 Hz, Batería de alta capacidad de 8720 mAh ",
+            "descripcion2": "La gran pantalla de 11 pulgadas, el diseño compacto y elegante y la configuración de gama alta cumplirán con creces tus expectativas en multitud de situaciones. La Xiaomi Pad 5 está equipada con Qualcomm Snapdragon 860 con una pantalla con una tasa de refresco Superfluida de 120 Hz que harán que disfrutes de una experiencia impresionante. Con la batería enorme de 8720 mAh (typ), no te preocuparás más por la carga"
+
+        },
+        {
+            "id": 6,
+            "title": "Logitech G Pro Mecánico",
+            "price": 99,
+            "image": "https://www.alkosto.com/medias/097855151926-001-820Wx820H?context=bWFzdGVyfGltYWdlc3wxNTk2Mzl8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaGtNUzlvTURrdk9UVTRNVFkzTXpBNE56QXdOaTVxY0djfDhlODBkYjA5N2NlMmQwNzFiNjQwYTBjMWM4MDkzMTkwNzQ3NzIzMDE0OGMxOTQyNzZjZTZjYjgxZWU2MGZkY2I",
+            "category": "perifericos",
+            "descripcion": "GX BLUE INTERRUPTORES CON CLIC PERCEPTIBLE 1,8 M (6 ft)CABLE EXTRAÍBLE 1 ms VELOCIDAD DE RESPUESTA Diseño sin teclado numérico inspirado en los profesionales Iluminación RGB LIGHTSYNC 12 teclas F programables",
+            "descripcion2": ""
+
+        },
+        {
+            "id": 7,
+            "title": "ASUS ROG Strix G15 + RTX 3080",
+            "price": 1200,
+            "image": "https://asyscomputadores.com/wp-content/uploads/2021/08/5B46C39F-6967-4688-87F8-6EFDAC880E2A-600x441.png.webp",
+            "category": "pc",
+            "descripcion": "Poratil ASUS ROG Strix G15 con procesador Ryzen 95900HX + 1Tb Nvme + 32Gb RAM DDR5 + RTX 3080 8Gb",
+            "descripcion2": "El poder ilimitado en tus manos: domina cualquier desafío con nuestra PC potente"
+
+        },
+        {
+            "id": 8,
+            "title": "Xbox Series X + Game Pass",
+            "price": 600,
+            "image": "https://konsolekingz.co.uk/cdn/shop/products/image_32af5a31-593a-42ad-9e0f-708ce9423fb4.png?v=1664619227",
+            "category": "consolas",
+            "descripcion": "Consola Xbox Series X + 1 Mando",
+            "descripcion2": "Incluye Game Pass + Videojuego FIFA 23"
+
+        },
+        {
+            "id": 9,
+            "title": "Xiaomi Black Shark 3 Pro",
+            "price": 500,
+            "image": "https://totalgaming.com.ar/wp-content/uploads/blackshark3pro_1_.png",
+            "category": "celulares",
+            "descripcion": "Xiaomi Black Shark 3 Pro con capacidad de 256 o 512 GB, RAM 8GB, Android 10, BATERIA 5.000mAh",
+            "descripcion2": "Impulsado por la plataforma móvil más avanzada, el Qualcomm Snapdragon 865, el Black Shark 3 Pro es una generación completamente nueva de rápido e inteligente. La CPU, la GPU un 25% más rápida y el sistema 5G 100% mejorado permiten una experiencia impresionante en juegos, transmisión, navegación y más."
+
+        },
+        {
+            "id": 10,
+            "title": "NVIDIA® GeForce RTX™ 4090 ",
+            "price": 2000,
+            "image": "https://asset.msi.com/resize/image/global/product/product_16655531780ae76e91e577ad9719f1f135824e1a15.png62405b38c58fe0f07fcef2367d8a9ba1/600.png",
+            "category": "graficas",
+            "descripcion": "La NVIDIA® GeForce RTX™ 4090 es la GPU GeForce definitiva. Aporta un enorme salto en rendimiento, eficiencia y gráficos potenciados por la IA. Disfruta de juegos de altísimo rendimiento, mundos virtuales increíblemente detallados con trazado de rayos, una productividad sin precedentes y nuevas formas de crear. Está impulsada por la arquitectura NVIDIA Ada Lovelace y cuenta con 24 GB de memoria G6X para ofrecer la experiencia definitiva a gamers y creadores.",
+            "descripcion2": ""
+
+        },
+        {
+            "id": 11,
+            "title": "ASUS Rog flow Z13 2022",
+            "price": 1400,
+            "image": "https://eg-en.store.asus.com/media/catalog/product/_/d/_d6xf4bx3bzvqfsok.png?width=439&height=439&store=en_EG&image-type=image",
+            "category": "tablets",
+            "descripcion": "ASUS Rog flow Z13 2022 con Intel® Core™ I9-12900H, GeForce RTX™ 3050 Ti, SSD De 1 TB, Ram 16GB DDR5",
+            "descripcion2": "La Flow Z13 está diseñada para ser versátil. Conecta tu ratón inalámbrico favorito y disfruta de una experiencia gaming PC tradicional con nuestro teclado integrado. Con N-key rollover, un desplazamiento de 1,7 mm e iluminación RGB Aura Sync de una zona, el teclado reúne las mismas características premium que el resto de portátiles ROG."
+
+        },
+        {
+            "id": 12,
+            "title": "Camara Gamer 1080p - REDRAGON",
+            "price": 32,
+            "image": "https://cdnx.jumpseller.com/tienda-gamer-medellin/image/11279077/resize/610/610?1651489487",
+            "category": "perifericos",
+            "descripcion": "Fácil de montar: con un clip giratorio, puede configurar la cámara web USB firmemente en cualquier dispositivo como computadora portátil, pantalla, etc. También se puede colocar de forma segura en una mesa para otras necesidades de grabación de video, como manos + pantalla de juego streaming y así sucesivamente.",
+            "descripcion2": ""
+
+        },
+        {
+            "id": 13,
+            "title": "PC Gamer AMD RYZEN 5 5600G",
+            "price": 499,
+            "image": "https://http2.mlstatic.com/D_NQ_NP_642916-MCO72181380888_102023-V.webp",
+            "category": "pc",
+            "descripcion": "Torre Cpu Gamer con procesador Amd Ryzen 5 5600g + 8gb RAM DDR4 + Ssd 240 + Win 10 pro",
+            "descripcion2": "¡EQUIPO IDEAL PARA HACER STREAMING EN 3 O MÁS PÁGINAS AL MISMO TIEMPO!"
+        },
+        {
+            "id": 14,
+            "title": "Nintendo Switch Edición Pokémon Escarlata & Violeta",
+            "price": 360,
+            "image": "https://tauretcomputadores.com/images/products/Product_202212121251261938948382.Nintendo-Perfil.webp",
+            "category": "consolas",
+            "descripcion": "Consola Videojuegos Nintendo Switch OLED 64GB Edición Pokémon Escarlata & Violeta (Japonesa)",
+            "descripcion2": "Obtén el sistema de juego que te permite jugar los juegos que quieras, donde sea que estés, como quieras."
+
+        },
+        {
+            "id": 15,
+            "title": "Redmagic 8S Pro",
+            "price": 800,
+            "image": "https://redmagic.com.co/wp-content/uploads/2023/07/c1.png",
+            "category": "celulares",
+            "descripcion": "Redmagic 8S Pro con Procesador ultra veloz Qualcomm® Snapdragon™ 8+ Gen 2, Ram 16GB, pantalla True AMOLED de 6,8 pulgadas FHD+ a 120 Hz, Batería de doble celda de 6. 000 mAh",
+            "descripcion2": "Eleva tu juego al siguiente nivel con poder y estilo sin igual."
+
+        },
+        {
+            "id": 16,
+            "title": "Geforce RTX 2080 TI",
+            "price": 599,
+            "image": "https://static.gigabyte.com/StaticFile/Image/Global/30726578b90fb87be9bd7ad8dad3f910/Product/23145",
+            "category": "graficas",
+            "descripcion": "Desarrollado por GeForce RTX™ 2080 Ti Integrado con interfaz de memoria de 11 GB GDDR6 de 352 bits Sistema de refrigeración WINDFORCE 3X con ventiladores giratorios alternativos RGB Fusion 2.0: sincroniza con otros dispositivos AORUS Placa trasera metálica.",
+            "descripcion2": ""
+
+        },
+        {
+            "id": 17,
+            "title": "Samsung Galaxy Tab S8+",
+            "price": 716,
+            "image": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt21aa9ce7f41b3332/6261747698a5e44ea7853718/PDP_Carousel_Tab_S8Plus_Graphite_Front.png",
+            "category": "tablets",
+            "descripcion": "Samsung Galaxy Tab S8+ con procesador Qualcomm Snapdragon 8 Gen 1, 12 GB Ram, Almacenamiento 256GB",
+            "descripcion2": " Eleva tu experiencia digital a un nivel superior con la elegancia y rendimiento excepcionales que esperas de Samsung"
+
+
+        },
+        {
+            "id": 18,
+            "title": "MICRÓFONO QUADCAST S RGB MULTIPATRON HYPERX",
+            "price": 199,
+            "image": "https://alavista.co/wp-content/uploads/2022/12/img_3270_1_1616859986.png",
+            "category": "perifericos",
+            "descripcion": "El Micrófono Quadcast S RGB Hyperx es el micrófono independiente todo incluido ideal para el streamer o podcaster que busca un micrófono de condensador con sonido de calidad. QuadCast viene con su propio soporte antivibraciones para ayudar a reducir los ruidos de la vida diaria y un filtro pop incorporado para amortiguar los molestos sonidos explosivos.",
+            "descripcion2": ""
+
+
+        },
+        {
+            "id": 19,
+            "title": "XTREME PC GAMING MSI",
+            "price": 3700,
+            "image": "https://m.media-amazon.com/images/I/41DYaO1BFEL.jpg",
+            "category": "pc",
+            "descripcion": "PC GAMING MSI Geforce RTX 4080 AMD Ryzen 9 7900X 32GB DDR5 SSD 2TB Sistema Liquido WiFi",
+            "descripcion2": "UNA PC DE ALTO RENDIMIENTO IDEAL PARA LAS PARTIDAS MAS EXTREMAS"
+
+        },
+        {
+            "id": 20,
+            "title": "Xbox Series S Pack fornite y Rocket League",
+            "price": 347,
+            "image": "https://static.xtralife.com/conversions/ZJC2-NX0J373141-medium_w640_h480_q75-xbox-series-s-fortnitemandokunai-1640259398.webp",
+            "category": "consolas",
+            "descripcion": "Xbox Series S Pack Fortnite y Rocket League + Mando Azul Revenant + Auriculares Tritton Kunai",
+            "descripcion2": "El Pack Midnight Drive (Fortnite Y Rocker league) incluye: Accesorios para el juego, 1000 PAVOS (Fortnite) y 1000 Creditos (Rocket League)"
+        },
+        {
+            "id": 21,
+            "title": "iQOO 7 Neo Pro",
+            "price": 445,
+            "image": "https://exstatic-in.iqoo.com/Oz84QB3Wo0uns8j1/in/1688111453448/d1d1c68b209d7ee7b0706c9d6c7d1f76.png_w860-h860.webp",
+            "category": "celulares",
+            "descripcion": "Celular Gamer iQOO 7 Neo Pro con Procesador: Qualcomm Snapdragon 8+ Gen1, 12 GB Ram, Pantalla: 6.78 AMOLED, Almacenamiento: 128GB - 256GB",
+            "descripcion2": "Donde la velocidad se encuentra con la innovación, creando una experiencia de juego sin igual"
+
+        },
+        {
+            "id": 22,
+            "title": " MSI Gaming GeForce GTX 1660 Super",
+            "price": 199,
+            "image": "https://m.media-amazon.com/images/I/71M4pG5B6zS.jpg",
+            "category": "graficas",
+            "descripcion": "Tarjeta gráfica MSI Gaming GeForce GTX 1660 Super 192 bits HDMI/DP 6GB GDRR6 HDCP compatible con DirectX 12 doble ventilador VR Ready OC tarjeta gráfica (GTX 1660 Super Gaming X)",
+            "descripcion2": ""
+
+        },
+        {
+            "id": 23,
+            "title": "Microsoft Surface® Pro 9",
+            "price": 1199,
+            "image": "https://au.targus.com/cdn/shop/files/THD918GLZ_USE2_1024x1024.png?v=1685415400",
+            "category": "tablets",
+            "descripcion": "Microsoft Surface® Pro 9 con procesador Intel Core 12ª gen i7-1255U, Ram 32 GB LPDDR5, Almacenamiento 1TB",
+            "descripcion2": "Para disfrutar de flexibilidad para tus desplazamientos, desata la velocidad 5G y la batería de larga duración con Microsoft SQ® 3, el procesador de Microsoft de última generación creado en asociación con Qualcomm.6"
+
+        },
+        {
+            "id": 24,
+            "title": "Maus Logitech G502 X",
+            "price": 111,
+            "image": "https://tauretcomputadores.com/images/products/Product_20221226100533584562464.g502X-bOX-ALAM.webp",
+            "category": "perifericos",
+            "descripcion": "G502 X es la última adición a la legendaria gama G502. Se rediseñó y reinventó con las tecnologías de juego más innovadoras, entre ellas la de nuestros flamantes interruptores LIGHTFORCE híbridos óptico-mecánicos. Ahora la velocidad y la confiabilidad se combinan con una actuación precisa.",
+            "descripcion2": ""
+
+        },
+        {
+            "id": 25,
+            "title": "Diadema Gamer Inalámbrico Logitech G935",
+            "price": 199,
+            "image": "https://www.tauretcomputadores.com/images/products/Product_20210301162918927151103.png",
+            "category": "perifericos",
+            "descripcion": "Disfruta del increíble DTS Headphone:X 2.04El sonido envolvente DTS Headphone:X 2.0 cuya precisión es superior al sonido envolvente estándar de 7.1 canales. El ambiente de juego espacial de alta precisión te permite detectar claramente la posición y la distancia en un espacio sonoro 3D completo. La clara percepción de lo que te rodea puede suponer la diferencia entre la victoria y la derrota.            ",
+            "descripcion2": ""
+
+        }
+    ]
+}
