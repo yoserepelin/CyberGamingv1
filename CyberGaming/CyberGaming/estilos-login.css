@@ -1,0 +1,11 @@
+body{
+    background: #59bdff;
+    background: linear-gradient(to right, #a8dcff, rgb(25, 25, 78));
+}
+
+
+.bg{
+    background-image: url(img/BG.jpg);
+    background-position: center center;
+    background-size: cover;
+}
